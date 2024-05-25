@@ -1,17 +1,17 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Shedu Kingdavid! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=black-jamesbond&color=green)
 
-I'm a [Your Job Title] with a passion for [Your Interests].
+I'm a junior software engineer with a passion for buliding systems.
 
 ## 🛠 Skills
-- **Languages**: [Language 1], [Language 2], [Language 3]
-- **Frameworks**: [Framework 1], [Framework 2], [Framework 3]
+- **Languages**: Python, C, FULL STACK, MySQL.
+- **Frameworks**: React, Dasngo/ Flask,
 - **Tools**: [Tool 1], [Tool 2], [Tool 3]
 
 ## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/kingdavid-shedu/)
+- [Twitter](https://twitter.com/lilnXIX)
 - [Personal Website](https://yourwebsite.com)
 
 ## 🌟 Featured Projects
